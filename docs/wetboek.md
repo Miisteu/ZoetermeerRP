@@ -13,8 +13,8 @@
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Amersveen (Wamr) is leidend voor alle beschreven gevallen waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. het Wamr heeft betrekking op het vasteland, het luchtruim en de wateren.
+1. Het Wetboek Amersveen (WAMR) is leidend voor alle beschreven gevallen waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. het WAMR heeft betrekking op het vasteland, het luchtruim en de wateren.
 
 ### A2 - Geldigheid
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
@@ -56,7 +56,7 @@
 
 1. Onder goederen wordt verstaan alles wat tussen twee personen kan worden uitgewisseld.
 2. Onderzoek kan maximaal 2 dagen duren.
-3. Onder strafbare feiten vallen overtredingen en misdrijven. Hieronder vallen ook misdrijven en overtredingen uit het Wetboek van Stramrecht van Nederland.
+3. Onder strafbare feiten vallen overtredingen en misdrijven. Hieronder vallen ook misdrijven en overtredingen uit het Wetboek van StrAMRecht van Nederland.
 
 ### A7 - Inbeslagname
 
