@@ -37,7 +37,7 @@ Proberen ‘’loopholes’’ te vinden in de regels en/of de regels te misbrui
 2. Het verkopen/kopen van **donatie voertuigen** is NIET toegestaan. dit kan opleveren tot het verwijderen van jou luxury voertuig.
 3. Het verkopen/kopen van **give-away voertuigen** is NIET toegestaan. dit kan opleveren tot het verwijderen van jou luxury voertuig.
 4. Het verkopen/kopen van **reward voertuigen** is NIET toegestaan. dit kan opleveren tot het verwijderen van jou reward voertuig.
-5. Het kopen mag met uitzondering alleen bij de luxury Car / donatie Dealer van Amersveen.
+5. Het kopen mag met uitzondering alleen bij de luxury Car / donatie Dealer van Zoetermeer.
 6. Als een auto niet in de normale cardealer staat gaat het om een speciaal voertuig en mag deze niet verkocht worden.
 
 
@@ -61,4 +61,4 @@ Proberen ‘’loopholes’’ te vinden in de regels en/of de regels te misbrui
   **- Vraag wel eerst toestemming van je ouders als je jonger bent dan 18 jaar om eventueel een donatie te doen.** 
 
 ---------------------
-*"Informatie - Regels" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”*
+*"Informatie - Regels" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Zoetermeer”*
