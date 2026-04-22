@@ -37,7 +37,6 @@ F# Algemene Plaatselijke Verordening Zoetermeer
   - **Categorie 7**  – Een waarschuwing + 200 taken.
   - **Categorie 8**  – Een ban van 1 week + 175 taken.
   - **Categorie 9** – Een permanente ban.
-**Houdt je jou niet aan de regels zullen deze jammer genoeg gebruikt worden!**
 
  2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het managagement team en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
