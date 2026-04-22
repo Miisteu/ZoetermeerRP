@@ -1,12 +1,12 @@
-F# Algemene Plaatselijke Verordening Amersveen
+F# Algemene Plaatselijke Verordening Zoetermeer
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Organisatie      | Hoge Raad Amersveen |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Amersveen|
-| Vastgesteld door          | Hoge Raad Amersveen |
+| Organisatie      | Hoge Raad Zoetermeer |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Zoetermeer|
+| Vastgesteld door          | Hoge Raad Zoetermeer |
 
 !!! attention "LET OP"
     De onderstaande categorieën zijn richtlijnen, een staflid kan ten allen tijden een andere straf bepalen.
@@ -15,7 +15,7 @@ F# Algemene Plaatselijke Verordening Amersveen
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Amersveen.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Zoetermeer.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om. -
 
 ### A2 - Geldigheid
@@ -48,7 +48,7 @@ F# Algemene Plaatselijke Verordening Amersveen
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek Amersveen (Wamr), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in AmersveenRP.
+1. Aanvullend op de APV is er het Wetboek Zoetermeer (Wamr), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in ZoetermeerRP.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
    * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de Wamr. Dan is deze leidend.
@@ -145,7 +145,7 @@ F# Algemene Plaatselijke Verordening Amersveen
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
 6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
-7. Wanneer je met meerdere mensen die op Amersveen spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
+7. Wanneer je met meerdere mensen die op Zoetermeer spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 1e categorie.
 9. Om een overvalscenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.
 10. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
@@ -473,7 +473,7 @@ F# Algemene Plaatselijke Verordening Amersveen
 |---|---|
 
 ### Artikel 38 – IRL Trading 
-1. Hij/zij die geld of andere zaken vraagt voor dingen die hij doet in Amersveen Rp. 
+1. Hij/zij die geld of andere zaken vraagt voor dingen die hij doet in Zoetermeer Rp. 
 
 | Straf | Categorie 10 |
 |---|---|
@@ -487,7 +487,7 @@ F# Algemene Plaatselijke Verordening Amersveen
 ### Artikel 40 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op Amersveen spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+2. Wanneer je met meerdere mensen die op Zoetermeer spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
 3. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 4. Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 5. Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
@@ -506,7 +506,7 @@ F# Algemene Plaatselijke Verordening Amersveen
 ### Artikel 42 - ANWB
 1. Het is niet toegestaan om een ANWB medewerker te vermoorden / ontvoeren / te bedreigen met een wapen / te beledigen of niet mee te werken met de roleplay van een ANWB medewerker. De ANWB medewerker dient hier geen misbruik van te maken.
 2. Het ANWB gebouw en hier rondom (zie afbeelding hieronder), is geheel een greenzone. Dit betekent dat je geen scenarios hier mag starten die met wapens te maken hebben (dit geldt voor politie/kmar en criminelen), politie/kmar mag echter wel de parkeerplaats afzetten om bijvoorbeeld een verdachte aan te houden die binnen in de ANWB is/zijn. Criminelen mogen de ANWB niet invluchten voor een scenario te ontwijken.
-![ANWB_greenzone](https://github.com/AmersveenRP/apv/blob/main/docs/img/ANWB_greenzone.png)
+![ANWB_greenzone](https://github.com/ZoetermeerRP/apv/blob/main/docs/img/ANWB_greenzone.png)
 3. De werkplaats is bedoeld voor het repareren van voertuigen en mag niet worden gebruikt als hangplek. 
 4. Al de overige standaard regels (zoals bv.: RDM, VDM, stelen van voertuigen, ...) zijn nogsteeds van toepassing. 
 
@@ -580,4 +580,4 @@ Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je
 
 
 ---------------------
-*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersveen”, opgemaakt door Blaze.
+*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Zoetermeer”, opgemaakt door slome.nl.
